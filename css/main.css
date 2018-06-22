@@ -126,7 +126,7 @@ body {
                     }
 
                     #footer {
-                        height: 200px;
+                        height: 175px;
                         background: #A9A9A9;
                         border-top: 1px solid #1feb52;
                         margin: 0px;
@@ -157,6 +157,7 @@ body {
 
                     .three img {
                         width: 50%;
+                        margin-top: 15px;
                     }
 
                     .copyright {
@@ -167,10 +168,12 @@ body {
 
                     #footer h3 {
                         font-size: 2em;
+                        margin-left: 5px;
                     }
 
                     #footer li {
                         font-size: 1.5em;
+                        margin-left: 10px;
                     }
     
                     #footer a {
