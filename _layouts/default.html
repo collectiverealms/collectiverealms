@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% include head.html %}
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="headerwrap">
+          <div id="header">
+              {% include header.html %}
+          </div>
+        </div>
+        <div id="navigationwrap">
+          <div id="navigation">
+              {% include navigation.html %}
+          </div>
+        </div>
+        <div id="leftcolumnwrap">
+          <div id="leftcolumn">
+              {% include leftcolumn.html %}
+          </div>
+        </div>
+        <div id="contentwrap">
+          <div id="content">
+            {{ content }}
+          </div>
+        </div>
+        <div id="rightcolumnwrap">
+          <div id="rightcolumn">
+              {% include rightcolumn %}
+          </div>
+        </div>
+        <div id="footerwrap">
+          <div id="footer">
+              {% include footer %}
+          </div>
+        </div>
+    </div>
+</body>
+</html>
