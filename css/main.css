@@ -5,7 +5,8 @@ body {
     font-size: 13px;
     margin: 0px;
     width: 100%;
-    background-color: #D3D3D3;
+    background-image: url("https://github.com/collectiverealms/collectiverealms/blob/master/assets/gray-diamond-background.jpg?raw=true");
+    background-repeat: repeat;
        
 }
 
@@ -46,8 +47,9 @@ body {
 /* body contents */
 
                     #wrapper {
-                        margin: 0 auto;
-                        width: 100%;
+                        margin: 0;
+                        margin-left: 5%;
+                        width: 90%;
                     }
 
 /* header contents */
