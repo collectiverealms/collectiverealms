@@ -9,7 +9,6 @@ exclude:
   - "/vendor/"
 
 #site settings
-theme: jekyll-theme-slate
 title: "Collective Realms"
 subtitle: "Fantasy and Science Fiction Magazine"
 description: "Fantasy and Science Fiction Magazine"
