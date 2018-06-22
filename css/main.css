@@ -100,7 +100,7 @@ h1 {
 #footerwrap {
     width: 100%;
     float: left;
-    margin: 0 auto;
+    margin: 0px;
     clear: both;
 }
 
@@ -108,13 +108,13 @@ h1 {
     height: 40px;
     background: #33FF66;
     border-top: 1px solid #1feb52;
-    margin: 5px;
+    margin: 0px;
     font-size: .8em;
 }
 
 #footer ul, nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
