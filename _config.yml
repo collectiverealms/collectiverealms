@@ -14,6 +14,9 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
+plugins:
+  - jekyll-sitemap
+
     
  # Google analytics
 # ga_tracking_id: "UA-121187519-1"
