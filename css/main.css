@@ -82,7 +82,7 @@ body {
 
                     #content {
                         background: #FFFFFF;
-                        border-radius: 10px;
+                        border-radius: 5px;
                         border: 1px solid #ebebeb;
                         margin: 5px;
                     }
@@ -128,7 +128,7 @@ body {
                     #footer {
                         height: 175px;
                         background: #A9A9A9;
-                        border-top: 1px solid #1feb52;
+                        border-top: 1px solid #696969;
                         margin: 0px;
                         font-size: .8em;
                     }
