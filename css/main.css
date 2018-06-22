@@ -56,13 +56,13 @@ h1 {
     height: 40px;
     background: #696969;
     margin: 0px;
-    padding: 10%;
+    padding-left: 10%;
 }
 
 #contentwrap {
     width: 40%;
     float: left;
-    margin-left: 25%;
+    margin-left: 5%;
 }
 
 #content {
@@ -88,7 +88,7 @@ h1 {
 #rightcolumnwrap {
     width: 20%;
     float: left;
-    margin-left: 75%; 
+    margin-left: 5%; 
 }
 
 #rightcolumn {
