@@ -75,7 +75,7 @@ body {
 /* content contents */
 
                     #contentwrap {
-                        width: 40%;
+                        width: 45;
                         float: left;
                         margin-left: 5%;
                     }
@@ -126,8 +126,8 @@ body {
                     }
 
                     #footer {
-                        height: 250px;
-                        background: #33FF66;
+                        height: 150px;
+                        background: #A9A9A9;
                         border-top: 1px solid #1feb52;
                         margin: 0px;
                         font-size: .8em;
