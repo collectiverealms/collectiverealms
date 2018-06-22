@@ -22,13 +22,25 @@ body {
                     p {
                         padding: 10px;
                         font-size: 1em;
-                        line-height: 1em;
+                        line-height: 1.2em;
                         color: #333;
                     }
 
                     h1 {
                         font-size: 2em;
                         font-family:'Helvetica', 'Arial', 'Sans-Serif';
+                    }
+
+                    .about h3, .submissions h2 {
+                        padding-left: 10px;
+                    }
+
+                    .about h4, .submissions h4 {
+                        padding-left: 15px;
+                    }
+
+                    .about p, submissions p {
+                        padding-left: 20px;
                     }
 
 /* body contents */
