@@ -114,7 +114,6 @@ h1 {
 }
 
 #footer ul, nav ul {
-    nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -125,4 +124,3 @@ nav ul li {
     display: inline-block;
     margin-right: 20px;
 }
-
