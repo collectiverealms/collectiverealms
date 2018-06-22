@@ -5,7 +5,9 @@
 body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 13px;
-    color:#333
+    margin: 0px;
+    width: 100%;
+       
 }
 
 p {
