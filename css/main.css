@@ -59,9 +59,10 @@ h1 {
 }
 
 #contentwrap {
-    width: 700px;
+    width: 40%;
     float: left;
     margin: 0 auto;
+    margin-left: 25%;
 }
 
 #content {
@@ -72,33 +73,35 @@ h1 {
 }
 
 #leftcolumnwrap {
-    width: 150px;
+    width: 15%;
     float: left;
     margin: 0 auto;
+    margin-left: 5%;
 }
 
 #leftcolumn {
     background: #33CCFF;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 1px solid #1fb8eb;
     margin: 5px;
 }
 
 #rightcolumnwrap {
-    width: 150px;
+    width: 25%;
     float: left;
     margin: 0 auto;
+    margin-left: 75%; 
 }
 
 #rightcolumn {
     background: #CC33FF;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 1px solid #b81feb;
     margin: 5px;
 }
 
 #footerwrap {
-    width: 1000px;
+    width: 100%;
     float: left;
     margin: 0 auto;
     clear: both;
@@ -107,8 +110,7 @@ h1 {
 #footer {
     height: 40px;
     background: #33FF66;
-    border-radius: 10px;
-    border: 1px solid #1feb52;
+    border-top: 1px solid #1feb52;
     margin: 5px;
     font-size: .8em;
 }
