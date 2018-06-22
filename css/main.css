@@ -47,16 +47,14 @@ h1 {
 }
 
 #navigationwrap {
-    width: 1000px;
+    width: 100%;
     margin: 0 auto;
 }
 
 #navigation {
     height: 40px;
-    background: #FFCC33;
-    border-radius: 10px;
-    border: 1px solid #ebb81f;
-    margin: 5px;
+    background: #696969;
+    margin: 0px;
 }
 
 #contentwrap {
