@@ -34,17 +34,18 @@ h1 {
 }
 
 #headerwrap {
-    width: 1000px;
+    width: 100%;
     float: left;
     margin: 0 auto;
 }
 
 #header {
     height: 75px;
-    background: #FF6633;
-    border-radius: 10px;
-    border: 1px solid #eb521f;
-    margin: 5px;
+    background: #696969;
+}
+
+#header img {
+    width: 100%;
 }
 
 #navigationwrap {
