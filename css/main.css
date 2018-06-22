@@ -61,7 +61,6 @@ h1 {
 #contentwrap {
     width: 40%;
     float: left;
-    margin: 0 auto;
     margin-left: 25%;
 }
 
@@ -75,7 +74,6 @@ h1 {
 #leftcolumnwrap {
     width: 15%;
     float: left;
-    margin: 0 auto;
     margin-left: 5%;
 }
 
@@ -87,9 +85,8 @@ h1 {
 }
 
 #rightcolumnwrap {
-    width: 25%;
+    width: 20%;
     float: left;
-    margin: 0 auto;
     margin-left: 75%; 
 }
 
