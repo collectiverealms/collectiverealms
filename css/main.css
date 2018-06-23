@@ -138,6 +138,7 @@ body {
                         border-radius: 5px;
                         border: 1px solid #b81feb;
                         margin: 5px;
+                        text-align: center;
                     }
 
                     #rightcolumn .logo {
@@ -145,6 +146,7 @@ body {
                         margin-left: 5%;
                         margin-bottom: 15px;
                     }
+                    
 
 /* footer contents */
 
