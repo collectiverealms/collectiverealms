@@ -49,7 +49,8 @@ body {
                     }
 
                     #terms li {
-                        margin-right: 15px;
+                        margin-right: 20px;
+                        margin-bottom: 20px;
                     }
 
                     .home .signature {
@@ -58,6 +59,7 @@ body {
 
                     #podcast li {
                         margin-bottom: 5px;
+          
                     }
 
                     #leftcolumn h4, #leftcolumn p {
