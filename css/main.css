@@ -49,6 +49,9 @@ body {
                         margin: 0;
                         margin-left: 5%;
                         width: 90%;
+                    }
+    
+                    #postbackground {
                         background: #FFFFFF;
                         border-radius: 5px;
                     }
