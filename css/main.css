@@ -35,7 +35,7 @@ body {
                         font-family:'Helvetica', 'Arial', 'Sans-Serif';
                     }
 
-                    .about h3, .submissions h2, .articles h2, #rightcolumn h3, #leftcolumn h4, #leftcolumn h3, #podcast h2, .home h3 {
+                    .about h3, .submissions h2, .articles h2, #rightcolumn h3, #leftcolumn h4, #leftcolumn h3, #podcast h2, .home h3, .terms h3 {
                         padding-left: 10px;
                     }
 
@@ -43,9 +43,13 @@ body {
                         padding-left: 15px;
                     }
 
-                    .about p, submissions p {
+                    .about p, .submissions p, . {
                         padding-left: 20px;
      
+                    }
+
+                    .terms li {
+                        margin-right: 15px;
                     }
 
                     .home .signature {
