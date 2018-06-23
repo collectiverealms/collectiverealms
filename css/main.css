@@ -51,7 +51,7 @@ body {
                         margin: 0;
                         margin-left: 5%;
                         width: 90%;
-                        background-color: #FFFFFF;
+                        background: #FFFFFF;
                         border-radius: 5px;
                     }
 
@@ -99,7 +99,7 @@ body {
                     }
 
                     #content {
-                        background-color: #FFFFFF;
+                        background: #FFFFFF;
                         border-radius: 5px;
                         border: 1px solid #ebebeb;
                         margin: 5px;
