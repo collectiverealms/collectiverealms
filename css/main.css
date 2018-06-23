@@ -31,7 +31,7 @@ body {
                         font-family:'Helvetica', 'Arial', 'Sans-Serif';
                     }
 
-                    .about h3, .submissions h2, .articles h2, #rightcolumn h3{
+                    .about h3, .submissions h2, .articles h2, #rightcolumn h3, #leftcolumn h4, #leftcolumn h3 {
                         padding-left: 10px;
                     }
 
@@ -41,6 +41,18 @@ body {
 
                     .about p, submissions p {
                         padding-left: 20px;
+     
+                    }
+
+                    #leftcolumn h4, #leftcolumn h3 {
+                        font-family: 'Courier-New';
+                    }           
+                    
+                    #leftcolumn p {
+                        margin-top: 0px;
+                        margin-bottom: 10px;
+                        font-family: 'Courier-New';
+                       
                     }
 
 /* body contents */
