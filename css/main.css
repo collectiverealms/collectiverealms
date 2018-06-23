@@ -51,6 +51,7 @@ body {
                     #leftcolumn p {
                         margin-top: 0px;
                         margin-bottom: 10px;
+                        padding: 0px;
                         font-family: 'Courier-New', 'Courier', 'Lucida Sans Typewriter';
                        
                     }
