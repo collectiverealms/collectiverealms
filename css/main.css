@@ -26,6 +26,10 @@ body {
                         color: #333;
                     }
 
+                    .termsandconditions {
+                        font-size: .6em;
+                    }
+
                     h1 {
                         font-size: 2em;
                         font-family:'Helvetica', 'Arial', 'Sans-Serif';
