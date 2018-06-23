@@ -31,17 +31,21 @@ body {
                         font-family:'Helvetica', 'Arial', 'Sans-Serif';
                     }
 
-                    .about h3, .submissions h2, .articles h2, #rightcolumn h3, #leftcolumn h4, #leftcolumn h3 {
+                    .about h3, .submissions h2, .articles h2, #rightcolumn h3, #leftcolumn h4, #leftcolumn h3, #podcast h2 {
                         padding-left: 10px;
                     }
 
-                    .about h4, .submissions h4 {
+                    .about h4, .submissions h4, #podcast h3 {
                         padding-left: 15px;
                     }
 
                     .about p, submissions p {
                         padding-left: 20px;
      
+                    }
+
+                    #podcast li {
+                        margin-bottom: 5px;
                     }
 
                     #leftcolumn h4, #leftcolumn p {
