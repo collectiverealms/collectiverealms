@@ -44,7 +44,7 @@ body {
      
                     }
 
-                    #leftcolumn h4, #leftcolumn h3 {
+                    #leftcolumn h4, #leftcolumn p {
                         font-family: 'Courier-New', 'Courier', 'Lucida Sans Typewriter';
                     }           
                     
@@ -52,7 +52,6 @@ body {
                         margin-top: 0px;
                         margin-bottom: 10px;
                         padding: 0px;
-                        font-family: 'Courier-New', 'Courier', 'Lucida Sans Typewriter';
                        
                     }
 
