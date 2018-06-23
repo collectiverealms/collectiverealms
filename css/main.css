@@ -139,7 +139,7 @@ body {
                     #leftcolumn {
                         background: #FFFFFF;
                         border-radius: 5px;
-                        border: 1px solid #1fb8eb;
+                        border: 1px solid #808080;
                         margin: 5px;
                     }
 
@@ -152,7 +152,7 @@ body {
                     #rightcolumn {
                         background: #FFFFFF;
                         border-radius: 5px;
-                        border: 1px solid #b81feb;
+                        border: 1px solid #808080;
                         margin: 5px;
                         text-align: center;
                     }
