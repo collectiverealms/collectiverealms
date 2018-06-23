@@ -141,7 +141,8 @@ body {
                     }
 
                     #rightcolumn .logo {
-                        width: 100%;
+                        width: 90%;
+                        margin-left: 5%;
                     }
 
 /* footer contents */
