@@ -141,6 +141,11 @@ body {
                         text-align: center;
                     }
 
+                    #rightcolumn p {
+                        margin: 0px;
+                        padding: 0px;
+                    }
+
                     #rightcolumn .logo {
                         width: 90%;
                         margin-left: 5%;
