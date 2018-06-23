@@ -139,12 +139,13 @@ body {
                         width: 100%;
                         float: left;
                         margin: 0px;
+                        margin-top: 15px;
                         clear: both;
                         bottom: 0;
                     }
 
                     #footer {
-                        height: 200px;
+                        height: 180px;
                         background: #A9A9A9;
                         border-top: 1px solid #696969;
                         margin: 0px;
