@@ -140,6 +140,10 @@ body {
                         margin: 5px;
                     }
 
+                    #rightcolumn .logo {
+                        width: 100%;
+                    }
+
 /* footer contents */
 
                     #footerwrap {
