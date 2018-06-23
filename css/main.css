@@ -31,7 +31,7 @@ body {
                         font-family:'Helvetica', 'Arial', 'Sans-Serif';
                     }
 
-                    .about h3, .submissions h2, .articles h2 {
+                    .about h3, .submissions h2, .articles h2, #rightcolumn h3{
                         padding-left: 10px;
                     }
 
