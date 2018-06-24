@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our First Post"
-category: article
+category: fantasy
 date: 2018-06-21
 ---
 
