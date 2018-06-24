@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Our First Post"
+category: article
 date: 2018-06-21
 ---
 
