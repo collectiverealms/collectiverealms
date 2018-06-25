@@ -251,5 +251,9 @@ body {
                     #footer a {
                         color: #000000;
                     }
-    
+/* disqus thread */
+
+                    #disqus_thread {
+                        width: 70%;
+                    }
 
