@@ -39,9 +39,13 @@ body {
                         padding-left: 10px;
                     }
 
-                    .about h4, .submissions h4, #podcast h3 {
+                    .about h4, .submissions h4, #podcast h3, .posts h4 {
                         padding-left: 15px;
                     }
+
+                    .posts h4 {
+                        font-weight: 400;
+                    }           
 
                     .posts p, .about p, .submissions p, . {
                         padding-left: 20px;
