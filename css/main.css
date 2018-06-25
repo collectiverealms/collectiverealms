@@ -185,6 +185,10 @@ body {
                         margin-bottom: 15px;
                     }
                     
+                    .twitter-timeline {
+                        width: 70%;
+                        padding: 15%;
+                    }
 
 /* footer contents */
 
