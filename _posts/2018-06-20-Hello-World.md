@@ -2,6 +2,9 @@
 layout: post
 title: "Our First Post"
 category: fantasy
+author: Andrew Olvera
+status: Non-Canon
+characters: none
 date: 2018-06-21
 ---
 
