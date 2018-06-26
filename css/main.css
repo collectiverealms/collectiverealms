@@ -30,9 +30,13 @@ body {
                         font-size: .8em;
                     }
 
+                    nav {
+                        font-family: 'Aclonica';
+                    }
+
                     h1 {
                         font-size: 2em;
-                        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+                        font-family: 'Aclonica','Helvetica', 'Arial', 'Sans-Serif';
                     }
 
                     h2, .posts h1, h3, #leftcolumn h4 {
