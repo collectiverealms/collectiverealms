@@ -56,7 +56,7 @@ body {
                         
                     }
 
-                    h2, h3, h4 {
+                    h1, h2, h3, h4 {
                         font-family: 'IM Fell Great Primer SC', serif;
                     }
 
@@ -213,6 +213,16 @@ body {
                     .twitter {
                         width: 90%;
                         padding: 5%;
+                    }
+
+                    .postinfo h1, .postinfo h3, .postinfo p {
+                        margin: 0px;
+                        margin-left: 25px;
+                    }
+
+                    .postinfo {
+                        
+                        background: #A9A9A9;
                     }
 
 /* footer contents */
