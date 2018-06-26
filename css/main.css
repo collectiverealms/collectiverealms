@@ -185,7 +185,7 @@ body {
                         margin-bottom: 15px;
                     }
                     
-                    .twitter-timeline {
+                    .twitter {
                         width: 70%;
                         padding: 15%;
                     }
@@ -257,7 +257,7 @@ body {
                     }
 /* disqus thread */
 
-                    #disqus_thread script {
+                    #disqus_thread {
                         width: 70%;
                         padding-left: 15%;
                     }
