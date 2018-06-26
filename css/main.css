@@ -24,6 +24,7 @@ body {
                         font-size: 1em;
                         line-height: 1.2em;
                         color: #333;
+                        font-family: 'Noticia Text', serif;
                     }
 
                     .termsandconditions {
@@ -36,7 +37,7 @@ body {
 
                     h1 {
                         font-size: 2em;
-                        font-family: 'Aclonica','Helvetica', 'Arial', 'Sans-Serif';
+                        font-family: 'IM Fell Great Primer SC', serif;
                     }
 
                     h2, .posts h1, h3, #leftcolumn h4 {
