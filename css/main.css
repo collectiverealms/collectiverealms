@@ -87,6 +87,10 @@ body {
                        
                     }
 
+                    li {
+                        font-family: 'Noticia Text', serif;
+                    }
+
 /* body contents */
 
                     #wrapper {
