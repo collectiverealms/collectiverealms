@@ -257,7 +257,7 @@ body {
                     }
 /* disqus thread */
 
-                    #disqus_thread {
+                    #disqus_thread script {
                         width: 70%;
                         padding-left: 15%;
                     }
