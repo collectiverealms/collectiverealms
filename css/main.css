@@ -24,6 +24,8 @@ body {
                         line-height: 1.5em;
                         color: #333;
                         font-family: 'Lora', serif;
+                        padding-left: 10px;
+                        padding-right: 10px;
                     }
 
                     .termsandconditions {
@@ -92,6 +94,14 @@ body {
                     #leftcolumn h4, #leftcolumn p {
                         font-family: 'Cutive Mono', monospace;
                     }           
+    
+                    #leftcolumn h4 {
+                        font-size: 1.5em;
+                    }
+
+                    #leftcolumn h3 {
+                        font-size: 2em;
+                    }
                     
                                        li {
                         font-family: 'Noticia Text', serif;
