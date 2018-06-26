@@ -32,11 +32,15 @@ body {
                     }
 
                     nav {
-                        font-family: 'Aclonica';
+                        font-family: 'IM Fell Great Primer SC';
                     }
 
                     h1 {
                         font-size: 2em;
+                        
+                    }
+
+                    h2, h3, h4 {
                         font-family: 'IM Fell Great Primer SC', serif;
                     }
 
