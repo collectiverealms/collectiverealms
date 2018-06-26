@@ -19,7 +19,7 @@ body {
                         text-decoration: underline;
                     }
 
-                    p {
+                    p, li {
                         font-size: 1.2em;
                         line-height: 1.7em;
                         color: #333;
@@ -103,10 +103,6 @@ body {
                         font-size: 1.8em;
                     }
                     
-                                       li {
-                        font-family: 'Noticia Text', serif;
-                    }
-
 /* body contents */
 
                     #wrapper {
