@@ -132,7 +132,7 @@ body {
                     #contentwrap {
                         width: 45%;
                         float: left;
-                        margin-left: 5%;
+                        margin-left: 2.5%;
                     }
 
                     #content {
@@ -145,7 +145,7 @@ body {
 /* column contents */
 
                     #leftcolumnwrap {
-                        width: 15%;
+                        width: 20%;
                         float: left;
                         margin-left: 5%;
                     }
@@ -160,7 +160,7 @@ body {
                     #rightcolumnwrap {
                         width: 20%;
                         float: left;
-                        margin-left: 5%; 
+                        margin-left: 2.5%; 
                     }
 
                     #rightcolumn {
