@@ -8,6 +8,7 @@ email: "collectiverealms@gmail.com"
 avatar: "https://avatars1.githubusercontent.com/u/40450187?s=460&v=4"
 cover: "assets/header_image.png"
 logo: "assets/logo.png"
+  
 
 #build settings
 markdown: kramdown
@@ -16,6 +17,7 @@ paginate_path: "/page:num/"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
     
  # Google analytics
