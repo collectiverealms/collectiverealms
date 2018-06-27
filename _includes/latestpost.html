@@ -1,5 +1,6 @@
 <div class="latestpost">
+    <h4>Latest Article</h4>
     {% for post in site.posts limit:1 %}
-        <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} <span>, by {{ post.author }}</span></a></p>
+        <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}<span></a>, by {{ post.author }}</span></p>
     {% endfor %}
 </div>
