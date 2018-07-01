@@ -61,19 +61,19 @@ body {
                         font-family: 'IM Fell Great Primer SC', serif;
                     }
 
-                    h2, .posts h1, h3, #leftcolumn h4 {
+                    h2, .posts h1, h3, #leftcolumn h4, .news h1 {
                         padding-left: 10px;
                     }
 
-                    .about h4, .submissions h4, #podcast h3, .posts h4, .home h4 {
+                    .about h4, .submissions h4, #podcast h3, .posts h4, .home h4, .news h4 {
                         padding-left: 15px;
                     }
 
-                    .posts h4 {
+                    .posts h4, .news h4{
                         font-weight: 400;
                     }           
 
-                    .posts p, .about p, .submissions p, . {
+                    .posts p, .about p, .submissions p, .news p {
                         padding-left: 20px;
      
                     }
@@ -216,12 +216,12 @@ body {
                         padding: 5%;
                     }
 
-                    .postinfo h1, .postinfo h3, .postinfo p {
+                    .postinfo h1, .postinfo h3, .postinfo p, .newsinfo h1, .newsinfo h3, .newsinfo p {
                         margin: 0px;
                         margin-left: 25px;
                     }
 
-                    .postinfo {
+                    .postinfo, .newsinfo {
                         
                         background: #D0D0D0;
                     }
