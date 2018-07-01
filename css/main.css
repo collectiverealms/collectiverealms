@@ -19,7 +19,7 @@ body {
                         text-decoration: underline;
                     }
 
-                    p, li {
+                    p, li, .subli li {
                         font-size: 1.2em;
                         line-height: 1.7em;
                         color: #333;
@@ -27,6 +27,7 @@ body {
                         padding-left: 20px;
                         padding-right: 20px;
                     }
+
 
                     .termsandconditions {
                         font-size: 1em;
