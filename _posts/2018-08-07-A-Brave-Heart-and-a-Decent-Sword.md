@@ -4,7 +4,7 @@ title: "A Brave Heart and a Decent Sword"
 category: fantasy
 author: Andrew Olvera
 status: Canon
-characters: Zarrakir Ohril
+characters: Characters related to Zarrakir Ohril
 date: 2018-08-07
 ---
 
