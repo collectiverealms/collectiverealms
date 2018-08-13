@@ -5,7 +5,7 @@ category: fantasy
 author: Andrew Olvera
 status: Canon
 characters: Characters related to Zarrakir Ohril
-date: 2018-08-07
+date: 2018-08-12
 ---
 
 *We are not like them. We were not made for their life.* That was what my father always told her. I never knew whether he said it for her sake or his. For most of my childhood, I’d always assumed it the former, as those who lived the life of an adventurer did not often live to see their hair turn to silver or their skin begin to wrinkle. 
@@ -24,7 +24,7 @@ The elf spoke to Kastra about all the far-off places she and her party had gone.
 
 “Y’ever thought’a leavin’?” the elven woman asked.
 
-“No,” interjected a stern voice from behind sister. Kastra, startled, jumped while the elf’s warm gaze soured into a look of annoyance as she laid eyes on father, who now stood immediately behind Kastra. In his arms were a tray full of clean, wooden mugs. He set them down roughly onto the countertop beside Kastra and returned a look of disgust to the elf.
+“No,” interjected a stern voice from behind my sister. Kastra, startled, jumped while the elf’s warm gaze soured into a look of annoyance as she laid eyes on father, who now stood immediately behind Kastra. In his arms were a tray full of clean, wooden mugs. He set them down roughly onto the countertop beside Kastra and returned a look of disgust to the elf.
 
 “We are not like them. We were not made for their life, child,” he told Kastra, then looked at the elf, “Discuss this with my daughter no further, *knife-ear*.”. The slur stung but the elf didn’t show it. Most of Kestheus was diverse and accepting of others but we lived in Ebercus, a small, rural town, where non-human racial intolerance was, unfortunately, not uncommon.
 
@@ -34,7 +34,7 @@ The energy of the bar eventually died, with Kastra and the elven woman companion
 
 “Don’t be,” she said, reaching out to put her hand over Kastra’s. “That’s hardly the worst I’ been called. And you’re not your father.” Before the quiet could consume them once more, the elf stood up and left for her quarters upstairs.  
 
-For the next couple of days, Kastra seemed present only in body. She was not prone to sulking after one of father’s chastising, so I could tell things were finally coming to a head. It wasn’t until another adventuring group arrived that she started to perk up.
+For the next couple of days, Kastra seemed present only in body. She was not prone to sulking after one of father’s chastisings, so I could tell things were finally coming to a head. It wasn’t until another adventuring group arrived that she started to perk up.
 
 This group, one who I’d never seen before, was much rowdier than most. They barged through our doors and proclaimed that they had slain a dragon. It was a mighty feat indeed if they were to be taken at their word, which no one in the bar did. They didn’t need to be, however, as the final member of their group entered our tavern. He was a massive half-orc who stood taller than anyone else in the room and in his large hands was the severed head of a blue dragon.
 
@@ -78,7 +78,7 @@ Kastra laughed but she still looked downtrodden, “I’m sorry, ser, but I can�
 
 “*No*,” father cut her off, holding up his finger to her sternum, “These people come in here and you start filling your head with nonsense. How many times do I have to tell you-”
 
-“‘*We are not like them. We were not made for their life*’,” Kastra recited, “Yes, I know the lecture, but did you ever happen to think that maybe I was?” I felt her words strike my chest and I could only imagine father’s anger as his face turned as red as a ruby. Still, he did not yell when he finally spoke. 
+“‘*We are not like them. We were not made for their life*’,” Kastra recited, “Yes, I know the lecture, but did you ever happen to think that maybe I *was*?” I felt her words strike my chest and I could only imagine father’s anger as his face turned as red as a ruby. Still, he did not yell when he finally spoke. 
 
 “*Leave*. Go to your room, *now*,” he hissed before turning to me, “That goes for you, too. I will close up the bar tonight.”
 
@@ -88,8 +88,8 @@ The rest of the night passed slowly, in silence, until I had fallen asleep, and 
 
 I haven’t seen Kastra since that night. She would go on to send me letters every month or so. Turned out, she’d packed her things and fled with Arazar. Their group didn’t last much longer after that, though. One by one, they all went their own way as the months went by. Soon, it was just she and him. They went all across the land, even going to Ethis like that elven woman and her group did.
 
-Often times, I’d think that she had surely met her match. If I recall the longest she went between letters was a year and a half, but I always wound up receiving a letter when it was most needed. She tried sending father letters, too, but he never replied. He and I ran the tavern until I came of age. I wound up working in a bookshop in the city not far away from home. Then I met a boy. Then he broke my heart. Then I met a girl. She didn’t, and a few years down the road we adopted a little boy, who we named Zarrakir. He’s almost a man himself now.
+Often times, I’d think that she had surely met her match. If I recall, the longest she went between letters was a year and a half, but I always wound up receiving a letter when it was most needed. She tried sending father letters, too, but he never replied. He and I ran the tavern until I came of age. I wound up working in a bookshop in the city not far away from home. Then I met a boy. Then he broke my heart. Then I met a girl. She didn’t, and a few years down the road we adopted a little boy, who we named Zarrakir. He’s almost a man himself now.
 
 Father passed last week. It still doesn’t even feel real while I sit here and write it. I sent Kastra a letter, but I doubt it’ll find her for a few months or so. While I was cleaning out his room in the tavern, I found a box of journals he had written. 
 
-*We are not like them. We were not made for their life*. That was what my father always told her. I never knew whether he said it for her sake or his. In my childhood, I’d always assumed it the former. But I’m an adult now. I’ve lived to see my own child reach adulthood, and now here I sit here with one man’s life of regrets contained in one small box. I think that when father told her that because if she left, it meant that he could’ve too.
+*We are not like them. We were not made for their life*. That was what my father always told her. I never knew whether he said it for her sake or his. In my childhood, I’d always assumed it the former. But I’m an adult now. I’ve lived to see my own child reach adulthood, and now here I sit here with one man’s life of regrets contained in one small box. I think that father told her that because if she left, it meant that he could’ve too.
