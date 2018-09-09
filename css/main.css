@@ -170,6 +170,9 @@ body {
 
                     .artwork img {
                         width: 40%;
+                    }
+
+                    .artwork {
                         float: left;
                         margin: 5px;
                     }
