@@ -166,6 +166,7 @@ body {
                         border-radius: 5px;
                         border: 1px solid #ebebeb;
                         margin: 5px;
+                        float: left;
                     }
 
                     .artwork img {
