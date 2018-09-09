@@ -168,8 +168,8 @@ body {
                         margin: 5px;
                     }
 
-                    .artwork {
-                        max-width: 25%;
+                    #content img {
+                        width: 25%;
                     }
 
 /* column contents */
