@@ -173,6 +173,12 @@ body {
                     }
 
 
+                    .artwork {
+                        float: left;
+                        margin: 5px;
+                    }
+
+
 /* column contents */
 
                     #leftcolumnwrap {
