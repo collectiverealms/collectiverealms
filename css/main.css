@@ -168,6 +168,10 @@ body {
                         margin: 5px;
                     }
 
+                    .artwork {
+                        max-width: 25%;
+                    }
+
 /* column contents */
 
                     #leftcolumnwrap {
