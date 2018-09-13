@@ -168,21 +168,10 @@ body {
                         margin: 5px;
                     }
 
-                    .home {
-                        width: 50%;
-                        float: left;
-                    }
-
                     .artwork img {
-                        width: 40%;
+                        width: 94%;
+                        margin: 3%;
                     }
-
-
-                    .artwork {
-                        float: left;
-                        margin: 5px;
-                    }
-
 
 /* column contents */
 
