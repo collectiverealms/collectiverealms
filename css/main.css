@@ -61,7 +61,7 @@ body {
                         font-family: 'IM Fell Great Primer SC', serif;
                     }
 
-                    h2, .posts h1, h3, #leftcolumn h4, .news h1 {
+                    h2, .posts h1, h3, #leftcolumn h4, .artwork h4, .news h1 {
                         padding-left: 10px;
                     }
 
@@ -101,6 +101,18 @@ body {
                     }
 
                     #leftcolumn h3 {
+                        font-size: 1.8em;
+                    }
+
+                    .artwork h4, .artwork p {
+                        font-family: 'Cutive Mono', monospace;
+                    }           
+    
+                    .artwork h4 {
+                        font-size: 1.3em;
+                    }
+
+                    .artwork h3 {
                         font-size: 1.8em;
                     }
                     
