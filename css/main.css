@@ -168,10 +168,6 @@ body {
                         margin: 5px;
                     }
 
-                    .artwork img {
-                        width: 94%;
-                        margin: 3%;
-                    }
 
 /* column contents */
 
@@ -179,6 +175,11 @@ body {
                         width: 20%;
                         float: left;
                         margin-left: 5%;
+                    }
+
+                    .artwork img {
+                        width: 94%;
+                        margin: 3%;
                     }
 
                     #leftcolumn {
