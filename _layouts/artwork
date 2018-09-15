@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="artpage">
+	<h2 class="post">{{ page.title }}</h2>
+	<div class="artinfo">    
+		<p><strong>Created by:</strong> {{ page.author }}</p>
+	    <p><strong>Characters featured:</strong> {{ page.characters }}</p>
+	    <p class="meta"><i>{{ page.date | date_to_string }}</i></p>
+	</div>
+
+    <div class="post">
+      {{ content }}
+    </div>
+    
+    <!-- Post comments -->
+	<div class="notecomments">
+		{% include disqus.html %}	 
+	</div>
+</div>
