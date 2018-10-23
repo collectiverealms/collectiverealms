@@ -5,7 +5,7 @@ category: fantasy
 author: Matthew Gustavson
 status: Canon
 characters: Gavin Wyrmdrake
-date: 2018-06-26
+date: 2018-10-16
 ---
 
 I let the stale old bread they fed me soak up as much saliva as I could muster. My rights were that of a political prisoner: two meals a day, one consisting of bread and cheese, and one of fowl and leek soup, both with watered down beer. Additionally I had access to any book from the royal library, a bed, a lamp, a fireplace and one bottle of wine to last a month's time.
