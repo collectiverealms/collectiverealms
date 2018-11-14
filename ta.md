@@ -9,33 +9,33 @@ date: 2018-11-19
 
 The reinforced double doors burst open, flying apart in a spray of splinters, and Horrindrill the Warrior crashed into the throne room. His momentum still carried him onward before he managed to halt his armored form. A moment later, an Elf, a Dwarf, and a Halfling picked their way through the ruined doorframe. 
 
-Horrindrill was a soldier from the west, and was the strongest man in his unit. His skill with a longsword and shield was well-known and he could run for miles in his heavy plate armor. Under his helm, two fearless eyes glared. None had managed to best him in strength of arms and it was unlikely that any would ever do so. Though short of speech and sometimes slow to process new ideas, Horrindrill was the sort of person one wanted when there was danger and violence afoot.
+Horrindrill was a soldier from the west and was the strongest man in his unit. His skill with a longsword and shield was well-known and he could run for miles in his heavy plate armor. Under his helm, two fearless eyes glared. None had managed to best him in strength of arms and it was unlikely that any would ever do so. Though short of speech and sometimes slow to process new ideas, Horrindrill was the sort of person one wanted when there was danger and violence afoot.
 
 The Elf was young and lithe, wearing tight leather armor and a green cloak which billowed as she walked. The ornate longbow in her hand shone with a gleam like moonlight and a quiver of silver arrows was fastened about her waist by a fine cord. Nobility and pride were in her face. Fearing few, feared by many, she was Aria, Princess of the Northern Lands, and a scout of unmatched skill. 
 
 The Dwarf, on the other hand, was short, stocky, and had a leathery face with many tough lines and wrinkles. He waddled along wearing a suit of fine chain links, carrying a glimmering Morningstar in one hand and a heavy iron shield in the other. His eyes burned with a mighty fire, and his woven beard was adorned with many rings and a golden clasp at the bottom. About his neck was a necklace which bore the symbol of Neera, the God of Healing. He was Rhodri, a great priest from the Southern Mountains; a healer of renown and a terrifying opponent on the battlefield. 
 
-Last, there came the Halfling. While not as large of stature as the rest, he made up for it in cunning. Wearing a bright robe of mystical silk, and carried a leather-bound book in his hands. When the book’s worn pages were opened, spells and incantations lashed out from it in gouts of fire or lightning. He flashed a toothy grin under his broad moustache, and a golden tooth glimmered at the back of his mouth. He was Morlo, a wizard from the circle of mages, and one of the best disciples of his order. 
+Last, there came the Halfling. While not as large of stature as the rest, he made up for it in cunning. Wearing a bright robe of mystical silk and carried a leather-bound book in his hands. When the book’s worn pages were opened, spells and incantations lashed out from it in gouts of fire or lightning. He flashed a toothy grin under his broad moustache, and a golden tooth glimmered at the back of his mouth. He was Morlo, a wizard from the circle of mages, and one of the best disciples of his order. 
 
-The little wizard stepped awkwardly over the fragments of smashed door which littered the entrance. Finally, we’re here. he thought. Maybe now we can get some real action. He was tired and footsore from battling up thirty floors of undead and demonic minions. Or rather, he was exhausted from the ascent. His allies had insisted he hang back while they cleared the way, insisting that he save his spells for when they reached the top. His casting hand itched and he yearned to contribute.
+The little wizard stepped awkwardly over the fragments of smashed door which littered the entrance. *Finally, we’re here.* he thought. *Maybe now we can get some real action.* He was tired and footsore from battling up thirty floors of undead and demonic minions. Or rather, he was exhausted from the ascent. His allies had insisted he hang back while they cleared the way, insisting that he save his spells for when they reached the top. His casting hand itched and he yearned to contribute.
 
 As the heroes marched in through the shattered door frame, their attention was drawn to the head of the throne room, where a malicious figure wrapped in a black cloak sat on the throne. At his side stood a beautiful woman wearing slave garb and carrying a tray laden with fruits and meat. Off to the other side, a man dressed in the robes of a king was running about on his hands and knees while being ridden by a wretched Goblin. The loathsome creature was shouting for him to go faster and was wearing the royal crown on his lumpy head. 
 
 “Malfigon!” shouted Horrindrill, pointing his sword at the cloaked figure threateningly. 
 
-Malfigon said nothing, but stood up from the throne and threw back his hood. He was a devilishly handsome man with well-groomed facial hair in the style of a goatee, but parts of his face were marred by demonic tattoos and corruption. Newly formed horns poked out from his hairline, and there was a pentagram medallion about his pale neck. 
+Malfigon said nothing but stood up from the throne and threw back his hood. He was a devilishly handsome man with well-groomed facial hair in the style of a goatee, but parts of his face were marred by demonic tattoos and corruption. Newly formed horns poked out from his hairline, and there was a pentagram medallion about his pale neck. 
 
 “Ah, the dinner guests have arrived...” he sneered, stroking his beard and grinning evilly. “I trust you found your way here easily?”
 
-“Aye, we cut though your undead minions guarding the castle,” answered Rhodri. “Now, why don’t ya just let the King and his daughter go, and maybe ye can get outta this in one piece!” to illustrate his point, the Dwarf clashed his Morningstar and shield together.
+“Aye, we cut through your undead minions guarding the castle,” answered Rhodri. “Now, why don’t ya just let the King and his daughter go, and maybe ye can get outta this in one piece!” to illustrate his point, the Dwarf clashed his Morningstar and shield together.
 
 “Foul necromancer!” added the Elf, stringing her longbow. “You shall die for the innocents you have slaughtered!”
 
-Malfigon only threw back his head and laughed. He collected himself, and began to advance toward the four heroes. His smile grew wider as he neared them.
+Malfigon only threw back his head and laughed. He collected himself and began to advance toward the four heroes. His smile grew wider as he neared them.
 
 “Now, now, let us not be rude. You are, after all, speaking to the new King of Arrilott!” The Goblin in the background laughed at this before returning to his torment of the old king, who groaned as he was ridden about. 
 
-“You’re no king, Malfigon!” said Morlo the Halfling with a clever grin. He summoned all his confidence, wishing to make a strong impression. “You’re just a pitiful servant of a demon master, just a device to be used and then chucked away!” he opened his Book of Spells, and readied himself.
+“You’re no king, Malfigon!” said Morlo the Halfling with a clever grin. He summoned all his confidence, wishing to make a strong impression. “You’re just a pitiful servant of a demon master, just a device to be used and then chucked away!” he opened his Book of Spells and readied himself.
 
 A dark look crossed Malfigon’s face, whereupon he let out a mad shout. Reaching out his hands, a blast of fire leapt at the Halfling. 
 
@@ -45,7 +45,7 @@ The battle raged on. Each of the heroes was sure that minstrels would be singing
 
 Morlo, however, seemed to be having trouble. Most of his spells were not strong enough to get through the magical shield Malfigon had placed around himself. The golems did not respond at all to magic, which really only worked upon living things. Blasts of flame, bolts of lightning, and mind spells just caused the golems to laugh deep in their skeletal throats and continue attacking. By the time the golems were dead, stick full of silver arrows or destroyed by blasts of Holy Light from the priest, Malfigon was starting to expend his most powerful spells in the hope that he could wrest victory from these interlopers. Morlo as well had used all of his best spells and was feeling rather useless. 
 
-Not again! he thought angrily. Just when I get to feel useful, my spells do nothing! He was sweating and close to exhaustion, his fingers sore from casting. 
+*Not again!* he thought angrily. *Just when I get to feel useful, my spells do nothing!* He was sweating and close to exhaustion, his fingers sore from casting. 
 
 At last, Horrindrill managed to cut through Malfigon’s defenses, and the necromancer was thrown back onto the floor. He attempted to right himself, but one of his arms was pinned to the floor by a glimmering silver arrow, and he howled in pain, gripping at the shaft futilely. 
 
@@ -71,7 +71,7 @@ When the beam struck him, Morlo felt a brief pain like he was being squeezed in 
 
 *	*	*
 
-He awoke with a moderate headache and a tired body. He felt sand under him, on his tongue, and in his moustache. Shakily rising, Morlo saw only a vast expanse of grey dunes in all directions. The sky was black and featureless, and in the distance he could see a bright colorful sphere of blue and green. He took a few wobbly steps towards it, and then stopped as he realized where he was. 
+He awoke with a moderate headache and a tired body. He felt sand under him, on his tongue, and in his moustache. Shakily rising, Morlo saw only a vast expanse of grey dunes in all directions. The sky was black and featureless, and in the distance, he could see a bright colorful sphere of blue and green. He took a few wobbly steps towards it, and then stopped as he realized where he was. 
 
 The Moon.
 
@@ -81,9 +81,9 @@ The Moon.
 
 Froogly the Hermit was out walking, looking to collect a basket of moon-mushrooms for his supper. He found them edible and quite healthy, as he had not withered away after a few months of eating them. They were a little tasteless and had no interesting colors, but besides an occasional moon-mouse, they were all he ate. 
 
-As he walked along, woven basket on his withered back, white beard and tattered clothes swaying under him, he ruminated on his isolation on the Moon. Certainly, it was nice to have somewhere to yourself every once in a while, and being on an entire other celestial body helped to keep dangerous monsters away. Still, he thought, a companion would be nice, if only to chat with and make the time pass easier.
+As he walked along, woven basket on his withered back, white beard and tattered clothes swaying under him, he ruminated on his isolation on the Moon. Certainly, it was nice to have somewhere to yourself every once in a while, and being on an entire other celestial body helped to keep dangerous monsters away. *Still*, he thought, *a companion would be nice, if only to chat with and make the time pass easier.*
 
-This is why he was so surprised when, upon climbing a small hill and peering over the top,  he could see a small figure running about inside a large crater, shaking its fists at the sky and shouting. Perplexed and intrigued, Froogly decided to get closer. 
+This is why he was so surprised when, upon climbing a small hill and peering over the top, he could see a small figure running about inside a large crater, shaking its fists at the sky and shouting. Perplexed and intrigued, Froogly decided to get closer. 
 
 As he approached, he saw that it was a Halfling man with silky robes and a well-groomed moustache. He was shouting and waving his arms, until he dropped to the ground, gripping his head and moaning.
 
@@ -91,7 +91,7 @@ Upon drawing near enough to be heard, Froogly said, “Halloo. Who are you?” N
 
 Hearing the voice, the Halfling looked up and stared. His mouth hung open, but no words came out. Nothing to say came to mind at the moment, for he had no idea that people lived on the Moon. 
 
-A few moments passed between them before Froogly held out a frail sandy hand and asked, “Would you like to come back to my hut? I have mushrooms.” A good start, he thought, as he tried to think of other things to say. 
+A few moments passed between them before Froogly held out a frail sandy hand and asked, “Would you like to come back to my hut? I have mushrooms.” *A good start*, he thought, as he tried to think of other things to say. 
 
 Struck dumb by this strange old man, Morlo stared for a moment longer, and then nodded, never losing the shocked expression on his face. 
 
@@ -110,21 +110,21 @@ Froogly set down his basket with a heavy sigh and meandered over to a pile of wh
 
 This snapped Morlo out of his trance. “Oh… I eh… I can help with that.” He said. Froogly looked up at him from under his bushy eyebrows and waited expectantly. Morlo pulled his Spell Book from his robes, opened it to the correct page, and muttered a short incantation. 
 
-“Vella Oreh Malladeen Incine!” he said, swirling his fingers as he did so. The logs caught fire and were soon burning brightly. 
+“*Vella Oreh Malladeen Incine!*” he said, swirling his fingers as he did so. The logs caught fire and were soon burning brightly. 
 
 Froogly smiled at this, seeing it as a good conversation starter as well as a quick and easy way to get the fire going. “Thank you! That’s mighty handy. What’s your name, sir?”
 
 “Morlo,” he replied, “of the Circle of Magi.”
 
-“Hmm…” said Froogly, placing a few small mushrooms in the pot before walking down a small passage at the back of the cave. He returned a few moments later bearing an upturned helmet, water brimming inside it. Her poured the water into the pot, and began to stir with the blade of a large knife. Morlo’s mind was bursting with questions, so he asked, “Have you been here long?”
+“Hmm…” said Froogly, placing a few small mushrooms in the pot before walking down a small passage at the back of the cave. He returned a few moments later bearing an upturned helmet, water brimming inside it. Her poured the water into the pot and began to stir with the blade of a large knife. Morlo’s mind was bursting with questions, so he asked, “Have you been here long?”
 
 “Oooh, yes,” said Froogly. “Decades. At least, I think so. I’ve been here long enough to grow old, and that’s decade in my book!” he laughed a little, before poking one of the mushrooms and tasting it on the end of the knife. “It’s been a long time since I’ve seen another person, I can tell you that.” 
 
 Morlo sat down by the fire and asked another question. “Who are you?” It was a fairly straightforward one which Morlo realized he had not yet asked. 
 
-“Now that I can tell you,” said Froogly. “I was once called…er… Oh, what was it they used to call me… Ah, yes, I remember. I was once called Kihirotar, Champion of the Gray Keep!” He illustrated his point by pulling the knife from the pot and holding it aloft. He was old and frail, and the knife still had a mushroom on the end, so the dramatic effect was lost somewhat. After standing like that for a moment, he sighed and lowered his knife back into the pot and resumed his tedious stirring. “But that was before I ended up here. I’m just Froogly now. I decided to go back to using my born name once I realized that no one was around to call me by my heroic one.”
+“Now that I can tell you,” said Froogly. “I was once called…er… Oh, what was it they used to call me… Ah, yes, I remember. I was once called *Kihirotar, Champion of the Gray Keep*!” He illustrated his point by pulling the knife from the pot and holding it aloft. He was old and frail, and the knife still had a mushroom on the end, so the dramatic effect was lost somewhat. After standing like that for a moment, he sighed and lowered his knife back into the pot and resumed his tedious stirring. “But that was before I ended up here. I’m just Froogly now. I decided to go back to using my born name once I realized that no one was around to call me by my heroic one.”
 
-Morlo grew quiet and look at the fire for a moment. He saw that the logs were in fact just the stalks of giant mushrooms. He sighed, and spoke. “Morlo is my hero name. I’ve never told this to anyone, but I might as well, seeing as how it doesn’t matter anymore.” Froogly lifted his eyebrows and watched Morlo. Morlo sighed again, then said, “My real name is Frippy Longfoot.” Saying his real name sounded strange in his mouth, it having gone unused for so long. 
+Morlo grew quiet and look at the fire for a moment. He saw that the logs were in fact just the stalks of giant mushrooms. He sighed and spoke. “Morlo is my hero name. I’ve never told this to anyone, but I might as well, seeing as how it doesn’t matter anymore.” Froogly lifted his eyebrows and watched Morlo. Morlo sighed again, then said, “My real name is Frippy Longfoot.” Saying his real name sounded strange in his mouth, it having gone unused for so long. 
 
 After a moment of shared silence, Froogly suddenly laughed a dusty and warm laugh. Frippy joined in too, glad to be rid of the burden. 
 
@@ -132,7 +132,7 @@ After a moment of shared silence, Froogly suddenly laughed a dusty and warm laug
 
 They got along much better after that. Frippy was given a tour of the rest of Froogly’s cave, which consisted of a small spring that flowed out of a crevice in a wall deeper underground and a table made of roped together mushroom stems. Froogly explained that he found no use for his armor and weapons after a while, and so used the adventuring supplies in his pack and his wits to make basic items of survival. The knives were used to stir the food and delicately cut smaller mushrooms, while his enchanted greatsword was used to cut up larger mushrooms which grew nearby like a waist-high forest. His helmet was repurposed as a bowl, and the rest of his armor was fashioned into a holding case for his larger firewood stores, deeper in the caves. 
 
-Everything had been put to use, and Frippy was amazed at all he had managed to do, especially without any help. He held the old man with chores and cooking, and Froogly was happier for it. He was quite old, and could not move as quickly as when he was young and strong. They talked much, and soon their mutual isolation became just another part of life. They told stories every night about their adventures on Earth, of course, and had a wonderful time of it.. They did not ask each other how they ended up on the Moon; it no longer seemed to matter, and Frippy figured that it had probably happened unexpectedly to his new companion as well. 
+Everything had been put to use, and Frippy was amazed at all he had managed to do, especially without any help. He held the old man with chores and cooking, and Froogly was happier for it. He was quite old and could not move as quickly as when he was young and strong. They talked much, and soon their mutual isolation became just another part of life. They told stories every night about their adventures on Earth, of course, and had a wonderful time of it. They did not ask each other how they ended up on the Moon; it no longer seemed to matter, and Frippy figured that it had probably happened unexpectedly to his new companion as well. 
 
 Because the moon’s cycles were different than those of Earth’s, Frippy had to admit that telling time in the conventional sense was impossible. They had been together for what felt like months, though there was no way to tell. Frippy didn’t care. He was content in his isolation with Froogly. His old life became more and more detached from him as he went on, his robes fading and becoming ragged from walking in the fine sand every day, and his facial hair growing out unchecked. He still practiced his spells, though the more practical ones were used often. Soon, he had completely forgotten the incantations for most of his combat-inclined sorceries. He also began to question some of them. “What is a spell like magical resilience even for?” he asked aloud one day while flipping through his Spell Book. He did not know. 
 
@@ -142,17 +142,17 @@ Over the years, or at least it felt like it to Frippy, there had always been a s
 
 Nevertheless, Frippy kept at it. Researching spells was harder than on Earth, as he had to use only what was in his book and his head for the incantations. As a result, the ritual ended up having to be cast by filling an upturned mushroom head with spring water and stirring it with a finger while chanting. When he finally figured this out, he rushed to be alone, and Froogly didn’t stop him. He merely glanced up from his seat by the fire, and said nothing. 
 
-Frippy filled the mushroom and ran outside. It was night, and the landscape all around was completely black. He did not venture far, just far enough that he could see in privacy. He found a spot at the top of a nearby dune, and began to chant and stir. 
+Frippy filled the mushroom and ran outside. It was night, and the landscape all around was completely black. He did not venture far, just far enough that he could see in privacy. He found a spot at the top of a nearby dune and began to chant and stir. 
 
 The spring water began to glow as it swirled, illuminating Frippy’s grizzled face. 
 
-Illuvati Mogrimi Aluu
+*Illuvati Mogrimi Aluu
 
-Muskaka Haloken No Ken
+*Muskaka Haloken No Ken
 
-Al Emna Golben Findeh
+*Al Emna Golben Findeh
 
-Mouchen Stipp Golba Si
+*Mouchen Stipp Golba Si
 
 The water grew still, but continued to glow. He began to think of his friends, their faces completely unchanged in his mind; memories tend to have that quality. The water cleared, and he saw an image.
 
@@ -214,7 +214,7 @@ The affair with the princess did not last long. In a few days, Horrindrill was b
 
 ~ ~ ~
 
-“Good riddance,” thought Frippy, “He deserved it. He was a…” he cut himself short. He was my friend… or, at least I think he was… thought Frippy. And hey, wait a minute… How many evil threats had he killed? Just how many were there? Dozens? How is that possible? Has the world always been in mortal danger at all times, and I just never realized it?” These thoughts swirling in his head, Frippy looked into the water one last time…
+“Good riddance,” thought Frippy, “He deserved it. He was a…” he cut himself short. *He was my friend… or, at least I think he was…* thought Frippy. *And hey, wait a minute… How many evil threats had he killed? Just how many were there? Dozens? How is that possible? Has the world always been in mortal danger at all times, and I just never realized it?* These thoughts swirling in his head, Frippy looked into the water one last time…
 
 ~ ~ ~
 
