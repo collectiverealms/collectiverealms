@@ -3,7 +3,6 @@ layout: post
 title: "Fatebreaker"
 category: fantasy
 author: Svea Vogt
-status: Canon
 date: 2018-11-09
 ---
   The gods had been ravaging the seas with their wrath for four days straight. The waters were raging, chalk-white foam crowning the waves’ crests much like a beast frothing at the mouth. The wind howled as if it were the raving creature’s primal scream, lightning its eyes flashing indignantly within its dense fur of pitch-black clouds.
