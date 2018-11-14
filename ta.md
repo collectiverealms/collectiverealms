@@ -145,14 +145,16 @@ Nevertheless, Frippy kept at it. Researching spells was harder than on Earth, as
 Frippy filled the mushroom and ran outside. It was night, and the landscape all around was completely black. He did not venture far, just far enough that he could see in privacy. He found a spot at the top of a nearby dune and began to chant and stir. 
 
 The spring water began to glow as it swirled, illuminating Frippy’s grizzled face. 
+<br>
 
-*Illuvati Mogrimi Aluu
+*Illuvati Mogrimi Aluu*
 
-*Muskaka Haloken No Ken
+*Muskaka Haloken No Ken*
 
-*Al Emna Golben Findeh
+*Al Emna Golben Findeh*
 
-*Mouchen Stipp Golba Si
+*Mouchen Stipp Golba Si*
+<br>
 
 The water grew still, but continued to glow. He began to think of his friends, their faces completely unchanged in his mind; memories tend to have that quality. The water cleared, and he saw an image.
 
