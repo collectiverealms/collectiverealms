@@ -233,8 +233,8 @@ He sat for a long while, thinking about the things he had witnessed. Those whom 
 
 Frippy got up, poured out the water from the mushroom, and walked back to the cave, where Froogly was fast asleep by the fire. He laid the old man down on top of his bedroll, being a Halfling, he could hardly lift him, and went to bed himself.
 
-<p>   </p>
-<p>   </p>
+<br>
+<br>
 
 <p class="credit">Joseph Quinn Erwin, born in Albuquerque, New Mexico, is a lover of Fantasy and Science Fiction stories. Growing up, he was exposed to tales and myths from many cultures, from Norse to Native American, and this turned into a deep love and respect for the tales of other cultures. Ever since he was young, Joe has been writing stories set in numerous fantasy worlds filled with adventure, conflict, and sympathetic characters.</p>
 <p class="credit">Joseph’s favorite pastimes besides writing include tabletop Roleplaying games of all genres, films and film-making, adventures in the forest, and reading as much as he can. He makes sure to maintain happiness in himself and those around him by encouraging these same hobbies.</p>
