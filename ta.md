@@ -3,6 +3,7 @@ layout: post
 title: "Time Away"
 category: Fantasy
 author: Joseph Erwin
+characters: Guest story
 date: 2018-11-19
 ---
 
