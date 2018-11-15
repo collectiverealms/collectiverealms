@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Time Away"
+title: "Temporus"
 category: Fantasy
-author: Joseph Erwin
-characters: Guest story
-date: 2018-11-19
+author: Joshua Bratton
+characters: Hyrgon Firehold
+date: 2018-11-26
 ---
 
 In the year 1476, Hyrgon Firehold went to see Temporus.
