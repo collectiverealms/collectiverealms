@@ -93,3 +93,8 @@ Often times, I’d think she had surely met her match. If I recall the longest s
 Father passed last week. It still doesn’t feel real, even as I sit here and write it. I sent Kastra a letter, but I doubt it’ll find her for a few months or so. While I was cleaning out his room in the tavern, I found a box of journals he had written. 
 
 *We are not like them. We were not made for their life*. That was what my father always told her. I never knew whether he said it for her sake or his. In my childhood, I’d always assumed it the former. But I’m an adult now. I’ve lived to see my own child reach adulthood, and now here I sit here with one man’s life of regrets contained in one small box. I think that father always told her that because if she left, it meant that he could’ve too.
+
+<br>
+<br>
+<p class="credit">Andrew Olvera lives in Tucson, Arizona, where he works as a teacher for special needs students. He is the co-founder of Lazy Adventurer Publishing and heads both of the press's magazines, <i>Prismatica Magazine</i> and <i>Collective Realms Magazine</i> as Editor-in-Chief and Publisher.</p>
+<p class="credit">You can find Andrew Olvera on Twitter at @AndrewTOlvera.</p>
