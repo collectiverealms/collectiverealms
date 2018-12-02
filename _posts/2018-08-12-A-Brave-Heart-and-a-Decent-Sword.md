@@ -96,5 +96,5 @@ Father passed last week. It still doesn’t feel real, even as I sit here and wr
 
 <br>
 <br>
-<p class="credit">Andrew Olvera lives in Tucson, Arizona, where he works as a teacher for special needs students. He is the co-founder of Lazy Adventurer Publishing and heads both of the press's magazines, <i>Prismatica Magazine</i> and <i>Collective Realms Magazine</i> as Editor-in-Chief and Publisher.</p>
+<p class="credit">Andrew Olvera lives in Tucson, Arizona, where he works as a teacher for students with special needs. He is the co-founder of Lazy Adventurer Publishing and heads both of the press's magazines, <i>Prismatica Magazine</i> and <i>Collective Realms Magazine</i> as Editor-in-Chief and Publisher.</p>
 <p class="credit">You can find Andrew Olvera on Twitter at @AndrewTOlvera.</p>
