@@ -18,5 +18,5 @@ you will run away from me, and I won’t even have to walk.
 <br>
 <br>
 
-<p class="credit"><strong>Ennis Rook Bashe</strong> is a poet/game designer from NYC. Find their most recent chapbook at https://www.amazon.com/Not-Girl-But-Knife-poetic-ebook/dp/B07PJ1Q7X5/
+<p class="credit"><strong>Ennis Rook Bashe</strong> is a poet/game designer from NYC. Find their most recent chapbook on <a href="https://www.amazon.com/Not-Girl-But-Knife-poetic-ebook/dp/B07PJ1Q7X5/">Amazon</a>.
 </p>
